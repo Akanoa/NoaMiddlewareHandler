@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Akanoa/NoaMiddlewareHandler.svg?branch=master)](https://travis-ci.org/Akanoa/NoaMiddlewareHandler)
+[![codecov](https://codecov.io/gh/Akanoa/NoaMiddlewareHandler/branch/master/graph/badge.svg)](https://codecov.io/gh/Akanoa/NoaMiddlewareHandler)
 # Yet another middlewares dispatcher
 
 ## Description

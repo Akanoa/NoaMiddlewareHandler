@@ -12,7 +12,7 @@
             "email": "dev@guern.eu"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
       "psr/http-message": "^1.0",
       "guzzlehttp/psr7": "^1.4",
