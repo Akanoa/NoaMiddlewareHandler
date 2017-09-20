@@ -26,5 +26,7 @@ The request will pass throught Middleware3, then Middleware2, then Middleware1, 
 
 When App return its response, Middleware1 will do something or not like Middleware 2 and 3.
 
-Finally Middleware3 give its response to MiddlewareHandler::process method which return this $response            
+Finally Middleware3 give its response to MiddlewareHandler::process method which return this $response
+
+## Development           
     
