@@ -24,9 +24,5 @@ The request will pass throught Middleware3, then Middleware2, then Middleware1, 
 
 When App return its response, Middleware1 will do something or not like Middleware 2 and 3.
 
-Finally Middleware3 give its response to MiddlewareHandler::process method which return this $response
-
-
-git remote add origin git@github.com:Akanoa/NoaMiddlewareHandler.gitNow you can do waht you want it. ie: send($response)
-            
+Finally Middleware3 give its response to MiddlewareHandler::process method which return this $response            
     
